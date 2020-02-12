@@ -1,0 +1,22 @@
+{
+  "name": "platzi-materialize",
+  "version": "1.0.0",
+  "description": "A modern responsive front-end framework based on Material Design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresCampuzano/Materialize-Framework-CSS.git"
+  },
+  "author": "Andres Campuzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresCampuzano/Materialize-Framework-CSS/issues"
+  },
+  "homepage": "https://github.com/AndresCampuzano/Materialize-Framework-CSS#readme",
+  "dependencies": {
+    "firebase": "^7.8.1"
+  }
+}
